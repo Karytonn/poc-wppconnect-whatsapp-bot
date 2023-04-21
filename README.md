@@ -1,4 +1,4 @@
-# POC WhatsApp Bot with WppConnect Lib
+# POC WhatsApp Bot with [WppConnect Lib](https://wppconnect.io/docs/tutorial/basics/installation)
 
 _Esse bot simula a votação de um concurso gastronômico._
 
