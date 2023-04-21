@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.23.0"
+  },
+  "name": "poc-wppconnect-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./src/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karytonn",
+  "license": "ISC",
+  "description": ""
+}
