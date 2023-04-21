@@ -1,8 +1,13 @@
 # POC WhatsApp Bot with [WppConnect Lib](https://wppconnect.io/docs/tutorial/basics/installation)
 
-_Esse bot simula a votação de um concurso gastronômico._
+## Sobre o projeto
 
-## Execute o projeto localmente
+- Esse bot simula a votação de um concurso gastronômico
+
+- SUGESTÃO: Antes de focar no código, inicialize o bot e veja o seu funcionamento.
+
+
+## Execute localmente
  
 1 - Instale as dependências:
  
